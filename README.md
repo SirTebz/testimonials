@@ -1,6 +1,6 @@
-# Product preview card component
+# Testimonials grid
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Testimonials grid coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
 

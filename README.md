@@ -4,12 +4,12 @@
 
 ## Welcome! 👋
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/66afb836e2150da4c47654d4/challenge/start).
+This is a solution to the [Responsive Testimonials challenge on Frontend Mentor](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD/steps/66afb836e2150da4c47654d4/challenge/start).
 
 ### Links
 
 - Solution URL: [Solution](https://github.com/SirTebz/testimonials)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://sirtebz.github.io/testimonials/)
 
 ## Process
 
